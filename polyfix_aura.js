@@ -1,3 +1,3 @@
 {
-    "script": "unvi.js"
+    "script": "view.js"
 }
