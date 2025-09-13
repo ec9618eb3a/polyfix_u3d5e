@@ -1,0 +1,3 @@
+{
+    "script": "view.js"
+}
